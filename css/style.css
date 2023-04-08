@@ -327,7 +327,7 @@ START!!!!!!!!!!!!!
   /* Navbar section */
 
   .navbar {
-    padding: 1.2rem 2rem;
+    padding: 1rem 1.5rem;
   }
 
   #logo {
@@ -339,7 +339,7 @@ START!!!!!!!!!!!!!
   }
 
   .navbar a {
-    font-size: 1rem;
+    font-size: .9rem;
   }
 
   /* All your files section */
