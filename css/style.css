@@ -335,7 +335,7 @@ START!!!!!!!!!!!!!
   }
 
   .nav-links ul {
-    gap: 1.2rem;
+    gap: 1rem;
   }
 
   .navbar a {
@@ -453,6 +453,9 @@ START!!!!!!!!!!!!!
   .link_4 ul {
     display: flex;
     justify-content: center;
+  }
+  .link_1 span {
+    padding-left: 5px;
   }
 }
 
