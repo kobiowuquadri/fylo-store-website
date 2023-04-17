@@ -14,9 +14,13 @@ START!!!!!!!!!!!!
 }
 
 html,
-body {
+body{
   max-width: 100%;
   overflow-x: hidden;
+}
+
+body {
+  overflow-y: hidden;
   -webkit-user-select: none;
   /* Safari */
   -moz-user-select: none;
