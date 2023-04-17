@@ -13,7 +13,10 @@ START!!!!!!!!!!!!
   font-family: "Roboto", sans-serif;
 }
 
+html,
 body {
+  max-width: 100%;
+  overflow-x: hidden;
   -webkit-user-select: none;
   /* Safari */
   -moz-user-select: none;
@@ -339,7 +342,7 @@ START!!!!!!!!!!!!!
   }
 
   .navbar a {
-    font-size: .9rem;
+    font-size: 0.9rem;
   }
 
   /* All your files section */
