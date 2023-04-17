@@ -25,7 +25,6 @@ body {
   /* Internet Explorer/Edge */
   user-select: none;
   /* Non-prefixed version, supported by Chrome and Opera */
-  overflow-x: hidden;
 }
 
 /* Variables */
